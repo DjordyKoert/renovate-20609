@@ -1,11 +1,5 @@
 {
     "name": "djord/renovate-20609",
-    "authors": [
-        {
-            "name": "DjordyKoert",
-            "email": "djordy.koert@gmail.com"
-        }
-    ],
     "require": {
         "yoursurprisecom/coding-standard": "^3.0"
     },
