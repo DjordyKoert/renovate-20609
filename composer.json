@@ -7,7 +7,7 @@
         }
     ],
     "require": {
-        "yoursurprisecom/coding-standard": "^3.0"
+        "yoursurprisecom/coding-standard": "^5.0"
     },
     "repositories": [
         {
