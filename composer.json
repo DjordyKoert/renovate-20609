@@ -1,0 +1,19 @@
+{
+    "name": "djord/renovate-20609",
+    "authors": [
+        {
+            "name": "DjordyKoert",
+            "email": "djordy.koert@gmail.com"
+        }
+    ],
+    "require": {
+        "yoursurprisecom/coding-standard": "^3.0"
+    },
+    "repositories": [
+        {
+            "name": "yoursurprisecom/coding-standard",
+            "type": "vcs",
+            "url": "git@gitlab.ysp.cloud:packages/coding-standard.git"
+        }
+    ]
+}
